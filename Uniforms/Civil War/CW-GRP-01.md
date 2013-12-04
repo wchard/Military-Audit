@@ -13,6 +13,6 @@
 * $1500.00
 
 ##Description:
- ![image](CW-GRP-1.JPG)
+ ![image](../../../../Civil War/Uniforms/Images/CW-GRP-1.JPG)
 
 
