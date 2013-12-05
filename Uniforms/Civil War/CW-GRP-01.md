@@ -7,7 +7,7 @@
 
 
 ##Item Number:
-* CW-GRP-01
+* CW-GRP-1
 
 ##Value:
 * $1500.00
