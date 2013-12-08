@@ -13,7 +13,7 @@
 * $1500.00
 
 ##Description:
- ![CW-GRP-1](../../../Military-Audit/Images/CW-GRP-1.JPG)
+ ![CW-GRP-1](../../../Military-Audit/Images/CW-GRP-01.JPG)
 
 
 
