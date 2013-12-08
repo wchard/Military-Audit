@@ -13,7 +13,7 @@
 * $1500.00
 
 ##Image:
-![CW-GRP-1] (../../Images/CW-GRP-01.JPG)
+![CW-GRP-1](../../Images/CW-GRP-01.JPG)
 
 
 
