@@ -12,8 +12,8 @@
 ##Value:
 * $1500.00
 
-##Description:
- ![CW-GRP-1](../../../Military-Audit/Images/CW-GRP-01.JPG)
+##Image:
+![CW-GRP-1] (../../Images/CW-GRP-01.JPG)
 
 
 
