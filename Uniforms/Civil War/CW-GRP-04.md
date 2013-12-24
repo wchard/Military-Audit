@@ -1,0 +1,19 @@
+#Item:
+* SOFT PACK
+* BAYONETT AND SCABARD
+* EMBOSSED CARTRAGE BOX CAP BOX NCP BELT 
+* 30LB PARROT ROUND
+* LEFT BOLT RIGHT SHELL GRAPE SHOT 12 #
+
+
+
+
+##Item Number:
+* CW-GRP-04
+##Value:
+* $2800.00
+
+##Image:
+![CW-GRP-04](../../Images/CW-GRP-04.jpg)
+
+

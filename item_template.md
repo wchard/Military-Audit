@@ -9,6 +9,6 @@
 * 
 
 ##Image:
-![CW-GRP-03](../../Images/.jpg)
+ ![image](../../../../.jpg)
 
 
